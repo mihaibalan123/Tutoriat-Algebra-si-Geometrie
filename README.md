@@ -28,3 +28,5 @@ Doamna profesoară ne-a comunicat faptul că oferă **0,5 puncte** în cadrul *e
 ### Tutoriat 8 <sub>*- 5.12.2025*
 * Transformări ortogonale.
 * Endomorfisme simetrice.
+### Tutoriat 9 <sub>*- 12.12.2025*
+* Geometrie Analitică Euclidiană -exerciții-
