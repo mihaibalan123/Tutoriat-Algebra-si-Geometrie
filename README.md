@@ -30,3 +30,7 @@ Doamna profesoară ne-a comunicat faptul că oferă **0,5 puncte** în cadrul *e
 * Endomorfisme simetrice.
 ### Tutoriat 9 <sub>*- 12.12.2025*
 * Geometrie Analitică Euclidiană -exerciții-
+### Tutoriat 10 <sub>*- 19.12.2025*
+* Exerciții diverse
+### Tutoriat 11 <sub>*- 09.01.2026*
+* Exerciții asemănătoare cu cele de la examen
