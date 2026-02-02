@@ -34,3 +34,5 @@ Doamna profesoară ne-a comunicat faptul că oferă **0,5 puncte** în cadrul *e
 * Exerciții diverse
 ### Tutoriat 11 <sub>*- 09.01.2026*
 * Exerciții asemănătoare cu cele de la examen
+### Tutoriat 12 <sub>*- 16.01.2026*
+* Rezolvarea unui model de examen dat anii trecuți
